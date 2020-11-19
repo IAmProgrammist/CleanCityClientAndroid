@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Garbage" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/inactive_menu_item_background_color</item>
+        <item name="colorSecondaryVariant">@color/inactive_menu_item_background_color</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <!-- enable window content transitions -->
+        <item name="android:windowActivityTransitions">true</item>
+
+        <!-- specify enter and exit transitions -->
+        <item name="android:windowEnterTransition">@transition/full_desc_transition</item>
+        <item name="android:windowExitTransition">@transition/full_desc_transition</item>
+
+        <!-- specify shared element transitions -->
+        <item name="android:windowSharedElementEnterTransition">
+            @transition/full_desc_transition</item>
+        <item name="android:windowSharedElementExitTransition">
+            @transition/full_desc_transition</item>
+    </style>
+    <style name="Theme.GreenButton" parent="@style/Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/green</item>
+        <item name="android:background">@drawable/input_but_green</item>
+    </style>
+
+    <style name="Theme.BlueButton" parent="@style/Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/blue</item>
+        <item name="android:background">@drawable/input_but_blue</item>
+    </style>
+</resources>

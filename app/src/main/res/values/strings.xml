@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Clean city</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="enter_id">Enter your ID</string>
+    <string name="enter_pass">Enter your password</string>
+    <string name="enter">Enter</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome!</string>
+    <string name="menu">Menu</string>
+    <string name="account">Account</string>
+    <string name="points">Points</string>
+    <string name="your_points">Points</string>
+    <string name="news">News</string>
+    <string name="partners">Partners</string>
+    <string name="project">Projects</string>
+    <string name="map">Map PCO</string>
+    <string name="about">About Us</string>
+    <string name="contacts">Contacts</string>
+    <string name="options">Options</string>
+    <string name="scan">Scan QR-code</string>
+</resources>

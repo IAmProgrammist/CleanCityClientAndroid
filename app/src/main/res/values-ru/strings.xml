@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Чистый город</string>
+    <string name="remember_me">Запомнить меня</string>
+    <string name="enter_id">Введите свой ID</string>
+    <string name="enter_pass">Введите свой пароль</string>
+    <string name="enter">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="menu">Меню</string>
+    <string name="account">Личный кабинет</string>
+    <string name="points">Баллы</string>
+    <string name="your_points">Баллы</string>
+    <string name="news">Новости</string>
+    <string name="partners">Партнёры</string>
+    <string name="project">О проекте</string>
+    <string name="map">Карта РСО</string>
+    <string name="about">О нас</string>
+    <string name="contacts">Контакты</string>
+    <string name="options">Опции</string>
+    <string name="scan">Сканировать QR-код</string>
+</resources>

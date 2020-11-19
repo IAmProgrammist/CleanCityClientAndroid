@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#247abf</color>
+    <color name="blue_sec">#329CF1</color>
+    <color name="green">#00c772</color>
+    <color name="menu_item_stroke">#a3cbb4</color>
+    <color name="active_menu_item_background_color">#4d896a</color>
+    <color name="inactive_menu_item_background_color">#50ac7d</color>
+    <color name="background_of_scan">#83ccb7</color>
+    <color name="background_of_scan_darker">#456C61</color>
+    <color name="transparent">#00000000</color>
+</resources>
